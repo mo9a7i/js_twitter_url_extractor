@@ -1,0 +1,26 @@
+{
+  "name": "js_twitter_url_extractor",
+  "version": "1.0.0",
+  "description": "A script that extracts links from a given user tweets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo9a7i/js_twitter_url_extractor.git"
+  },
+  "author": "Mohannad F. Otaibi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mo9a7i/js_twitter_url_extractor/issues"
+  },
+  "homepage": "https://github.com/Mo9a7i/js_twitter_url_extractor#readme",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "colors": "^1.4.0",
+    "opn": "^6.0.0",
+    "twitter-lite": "^0.14.0"
+  }
+}
