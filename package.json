@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Mo9a7i/js_twitter_url_extractor#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "big-integer": "^1.6.48",
     "colors": "^1.4.0",
     "opn": "^6.0.0",
